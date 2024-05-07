@@ -4,6 +4,11 @@
 
 Given a table of products with columns `product_id`, `low_fats`, and `recyclable`, where `low_fats` and `recyclable` are ENUM types indicating whether the product is low fat ('Y' or 'N') and recyclable ('Y' or 'N') respectively, write an SQL query to find the ids of products that are both low fat and recyclable.
 
+## Question
+
+ - Write a solution to find the ids of products that are both low fat and recyclable.
+ - Return the result table in any order.
+
 ## SQL Schema
 
 ```sql
